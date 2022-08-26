@@ -1,0 +1,1683 @@
+Content Security Policy: Couldn’t process unknown directive ‘require-trusted-types-for’
+Content Security Policy: Couldn’t process unknown directive ‘trusted-types’
+Content Security Policy: Couldn’t process unknown directive ‘require-trusted-types-for’
+Content Security Policy: Couldn’t process unknown directive ‘trusted-types’
+vscs:web-client:4b0b:bootstrap session data found 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:4b0b:bootstrap initializing with partner info 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:4b0b:bootstrap:partnerInfo-init enhancing keys 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:4b0b:bootstrap:partnerInfo-init saving to local storage 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:4b0b:bootstrap:partnerInfo-init partner info processing finished 185.c4aa12781d2f30fc5588.js:1:33246
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. bootstrap.3a0ffbbaa19f63981ed9.js:1:4077
+vscs:web-client:eb8a init 👋 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:4b0b:bootstrap start rendering 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service initialize {
+  "browserId": "721a5042ecaa4cf2af41bca5d5cef4f0",
+  "sessionId": "e0b09219-a214-4b98-81e0-e228bf15047c",
+  "pageLoadId": "a9982b5896ad2c246ea9add6fdae79f9",
+  "host": "latest-ppe.github.dev",
+  "browserName": "firefox",
+  "browserVersion": "101.0.0",
+  "browserOS": "Mac OS",
+  "vscodeCommit": "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4",
+  "vscodeQuality": "insider",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02062.211-011c6d80",
+  "stableVSCodeCommitId": "e4503b30fc78200f846c62cf8091b76ff5547662",
+  "insiderVSCodeCommitId": "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4",
+  "serviceLocation": "WestUs2",
+  "serviceInstance": "WestUs2",
+  "environment": "Staging",
+  "workbenchType": "codespaces"
+} 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/app-state-changed 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component render: "Unknown", previous: "null" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render state: "Unknown" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render splash screen: true 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render workbench: false 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/splash-screen-state-transition 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:auth-service got keychain keys from the /keychain-keys endpoint 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component platform info found: true 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component render: "Unknown", previous: "null" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render state: "Unknown" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render splash screen: true 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render workbench: false 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/splash-screen-state-transition 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:side-effects check: "Unknown"/"null" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint requested to connect once 
+Object { workspaceId: "35B26D1ABEA6DE6C016C3A72DA2717B06BD4", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI1NUU3OTBEODY0RTU2MkZGNTU0NTkzNzRDMTdGNEQwMEYxNDgiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTY3MTUwLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjU5NDQxMWY2LTYzOTItNDY1ZC05NDBiLTZhZTIwNzQ1YmRlMiIsImlhdCI6MTY2MTQwNzE1MCwibmJmIjoxNjYxNDA2MjUwfQ.OVRolZummn7WAkY_s4cmVZO7wBgERBO_h7D5HdFZQtMloqFPIbHhyCZXwnuds3DOLKEu7WYXKn6uj7GbOE666kDFoqrp70tGsE8wu9XowmUf6qDGyPbSUnVxNOEwHQvAOuRwKf45BY7hHDMuf-QI41uSXcRDFbVzkBaQrPnLKvlbh5NheLtmnqenUef6FPWLByDH0PaTLysXd-ZONqFz2BHG_AxV0OPC39AGEbUVIL-0x2qFdKaj_rFNl-7Gm05GLjHbNBYH6DLz-c4rHwbRjjluhvEkAHeNKaQl-GXYIWG1iw1M0PtSs1n9PrbmS3PG3I5Ee3HWz-xXVOHxEp-_Hw", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/" }
+ 
+Object {  }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint requested to connect 
+Object { workspaceId: "35B26D1ABEA6DE6C016C3A72DA2717B06BD4", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI1NUU3OTBEODY0RTU2MkZGNTU0NTkzNzRDMTdGNEQwMEYxNDgiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTY3MTUwLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjU5NDQxMWY2LTYzOTItNDY1ZC05NDBiLTZhZTIwNzQ1YmRlMiIsImlhdCI6MTY2MTQwNzE1MCwibmJmIjoxNjYxNDA2MjUwfQ.OVRolZummn7WAkY_s4cmVZO7wBgERBO_h7D5HdFZQtMloqFPIbHhyCZXwnuds3DOLKEu7WYXKn6uj7GbOE666kDFoqrp70tGsE8wu9XowmUf6qDGyPbSUnVxNOEwHQvAOuRwKf45BY7hHDMuf-QI41uSXcRDFbVzkBaQrPnLKvlbh5NheLtmnqenUef6FPWLByDH0PaTLysXd-ZONqFz2BHG_AxV0OPC39AGEbUVIL-0x2qFdKaj_rFNl-7Gm05GLjHbNBYH6DLz-c4rHwbRjjluhvEkAHeNKaQl-GXYIWG1iw1M0PtSs1n9PrbmS3PG3I5Ee3HWz-xXVOHxEp-_Hw", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/" }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connection record: false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint creating connection without a timeout 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare asked to connect 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare creating connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 none -> connecting 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare requested to connect once 
+Object { workspaceId: "35B26D1ABEA6DE6C016C3A72DA2717B06BD4", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI1NUU3OTBEODY0RTU2MkZGNTU0NTkzNzRDMTdGNEQwMEYxNDgiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTY3MTUwLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjU5NDQxMWY2LTYzOTItNDY1ZC05NDBiLTZhZTIwNzQ1YmRlMiIsImlhdCI6MTY2MTQwNzE1MCwibmJmIjoxNjYxNDA2MjUwfQ.OVRolZummn7WAkY_s4cmVZO7wBgERBO_h7D5HdFZQtMloqFPIbHhyCZXwnuds3DOLKEu7WYXKn6uj7GbOE666kDFoqrp70tGsE8wu9XowmUf6qDGyPbSUnVxNOEwHQvAOuRwKf45BY7hHDMuf-QI41uSXcRDFbVzkBaQrPnLKvlbh5NheLtmnqenUef6FPWLByDH0PaTLysXd-ZONqFz2BHG_AxV0OPC39AGEbUVIL-0x2qFdKaj_rFNl-7Gm05GLjHbNBYH6DLz-c4rHwbRjjluhvEkAHeNKaQl-GXYIWG1iw1M0PtSs1n9PrbmS3PG3I5Ee3HWz-xXVOHxEp-_Hw", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/" }
+ 
+Object { performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare requested to connect 
+Object { workspaceId: "35B26D1ABEA6DE6C016C3A72DA2717B06BD4", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI1NUU3OTBEODY0RTU2MkZGNTU0NTkzNzRDMTdGNEQwMEYxNDgiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTY3MTUwLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjU5NDQxMWY2LTYzOTItNDY1ZC05NDBiLTZhZTIwNzQ1YmRlMiIsImlhdCI6MTY2MTQwNzE1MCwibmJmIjoxNjYxNDA2MjUwfQ.OVRolZummn7WAkY_s4cmVZO7wBgERBO_h7D5HdFZQtMloqFPIbHhyCZXwnuds3DOLKEu7WYXKn6uj7GbOE666kDFoqrp70tGsE8wu9XowmUf6qDGyPbSUnVxNOEwHQvAOuRwKf45BY7hHDMuf-QI41uSXcRDFbVzkBaQrPnLKvlbh5NheLtmnqenUef6FPWLByDH0PaTLysXd-ZONqFz2BHG_AxV0OPC39AGEbUVIL-0x2qFdKaj_rFNl-7Gm05GLjHbNBYH6DLz-c4rHwbRjjluhvEkAHeNKaQl-GXYIWG1iw1M0PtSs1n9PrbmS3PG3I5Ee3HWz-xXVOHxEp-_Hw", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/" }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connection record: false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare creating connection without a timeout 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare asked to connect 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare creating connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare connection status changed: none -> connecting, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:onConnectionChanged:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 none -> connecting 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare creating workspace client 
+Object { workspaceId: "35B26D1ABEA6DE6C016C3A72DA2717B06BD4", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI1NUU3OTBEODY0RTU2MkZGNTU0NTkzNzRDMTdGNEQwMEYxNDgiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTY3MTUwLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjU5NDQxMWY2LTYzOTItNDY1ZC05NDBiLTZhZTIwNzQ1YmRlMiIsImlhdCI6MTY2MTQwNzE1MCwibmJmIjoxNjYxNDA2MjUwfQ.OVRolZummn7WAkY_s4cmVZO7wBgERBO_h7D5HdFZQtMloqFPIbHhyCZXwnuds3DOLKEu7WYXKn6uj7GbOE666kDFoqrp70tGsE8wu9XowmUf6qDGyPbSUnVxNOEwHQvAOuRwKf45BY7hHDMuf-QI41uSXcRDFbVzkBaQrPnLKvlbh5NheLtmnqenUef6FPWLByDH0PaTLysXd-ZONqFz2BHG_AxV0OPC39AGEbUVIL-0x2qFdKaj_rFNl-7Gm05GLjHbNBYH6DLz-c4rHwbRjjluhvEkAHeNKaQl-GXYIWG1iw1M0PtSs1n9PrbmS3PG3I5Ee3HWz-xXVOHxEp-_Hw", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare:WorkspaceClient:WorkspaceApi getWorkspaceSessionInfo -> workspaceId:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare:WorkspaceClient:WorkspaceApi get workspace access -> https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/35B26D1ABEA6DE6C016C3A72DA2717B06BD4/user 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare:WorkspaceClient:WorkspaceApi get workspace info -> https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/35B26D1ABEA6DE6C016C3A72DA2717B06BD4 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:1 PUT - fetch start 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:2 GET - fetch start 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher start, current state: "stopped" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher stop, current state: "stopped" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher getting codespace info 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:2 GET - fetch response. (url=https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/35B26D1ABEA6DE6C016C3A72DA2717B06BD4;status=404) 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare connection failed:  HttpClientResponseError: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33083
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare connection status changed: connecting -> disconnected, error: HttpClientResponseError: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:onConnectionChanged:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connecting -> disconnected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:onConnectionChanged:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 disposing the connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare disposing 35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub', disposing 2 objects 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare disposing reason: 'connection record disposed by ConnectionHub $1', disposing 3 objects 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare:delayed-disposable Disposing reason:undefined 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare signal rejected reason -> type:i props:{"fileName":"https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js","lineNumber":1,"columnNumber":6909,"errorType":"CancellationError"} 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare connection failed:  Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33083
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare disposing connection "35B26D1ABEA6DE6C016C3A72DA2717B06BD4" due to an error Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33152
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare disposing 35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare error during connection Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33152
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare connection failed:  Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33083
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connecting -> disconnected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:35B26D1ABEA6DE6C016C3A72DA2717B06BD4 disposing the connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint disposing 35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub', disposing 2 objects 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub $1', disposing 2 objects 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection:35B26D1ABEA6DE6C016C3A72DA2717B06BD4:liveshare-joint:liveshare connection failed:  Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33083
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint disposing connection "35B26D1ABEA6DE6C016C3A72DA2717B06BD4" due to an error Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33152
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint disposing 35B26D1ABEA6DE6C016C3A72DA2717B06BD4 connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint error during connection Error: Request failed with status code 404.
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    o https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    makeRequest https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:33152
+FetchRequest:1 PUT - fetch response. (url=https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/35B26D1ABEA6DE6C016C3A72DA2717B06BD4/user;status=404) 185.c4aa12781d2f30fc5588.js:1:33246
+Uncaught (in promise) Error: 
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    i https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    cancel https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    disposeObject https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    disposeObject https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    dispose https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/185.c4aa12781d2f30fc5588.js:1
+    disposeConnection https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    onConnectionChanged https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    r https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    onConnectionChanged https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    invoke https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/835.a66e9a1726198ef66f6d.js:1
+    fire https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/835.a66e9a1726198ef66f6d.js:1
+    onConnectionChangedHandler https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    handleConnectionError https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    createConnection https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+    a https://tangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev/static/656.643ab314cba11e9de9b1.js:1
+185.c4aa12781d2f30fc5588.js:1:6909
+vscs:web-client:eb8a:codespace-state-watcher codespace state -> Available 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespace-state-watcher auto stop 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher stop, current state: "running" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher fire state change 
+Array(3) [ null, "Available", "Unknown" ]
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component onCodespaceStateChange:  
+Array(3) [ null, "Available", "Unknown" ]
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/app-state-changed 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component render: "Available", previous: "Unknown" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render state: "Available" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render splash screen: true 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render workbench: true 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/splash-screen-state-transition 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:splash-screen rendering creation logs 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:side-effects check: "Available"/"Unknown" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench initialize vscode workbench 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench initialized workbench 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/mount-workbench/action_start 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher getting codespace info 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher codespace state -> Available 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespace-state-watcher auto stop 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher stop, current state: "stopped" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/initial-connection/action_start 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection requested to connect once 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { trace: {…}, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, trace: {…}, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:71CA5FF6236A1011DE54A06A19916DECBD60 connection record: false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:71CA5FF6236A1011DE54A06A19916DECBD60 creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint creating connection without a timeout 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, trace: {…}, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare asked to connect 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare creating connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:71CA5FF6236A1011DE54A06A19916DECBD60 none -> connecting 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare requested to connect once 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:71CA5FF6236A1011DE54A06A19916DECBD60 connection record: false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:71CA5FF6236A1011DE54A06A19916DECBD60 creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare creating connection without a timeout 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare asked to connect 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare creating connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare connection status changed: none -> connecting, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:onConnectionChanged:71CA5FF6236A1011DE54A06A19916DECBD60 none -> connecting 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare creating workspace client 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient:WorkspaceApi getWorkspaceSessionInfo -> workspaceId:71CA5FF6236A1011DE54A06A19916DECBD60 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient:WorkspaceApi get workspace access -> https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/71CA5FF6236A1011DE54A06A19916DECBD60/user 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient:WorkspaceApi get workspace info -> https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/71CA5FF6236A1011DE54A06A19916DECBD60 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:3 PUT - fetch start 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:4 GET - fetch start 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:4 GET - fetch response. (url=https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/71CA5FF6236A1011DE54A06A19916DECBD60;status=200) 185.c4aa12781d2f30fc5588.js:1:33246
+FetchRequest:3 PUT - fetch response. (url=https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/workspace/71CA5FF6236A1011DE54A06A19916DECBD60/user;status=200) 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/eac4efd56d86d9223237d11c172637b702eb--ff27671c-e3d1-4f4c-aa52-201783490826 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient creating web SSH... 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient authenticating... 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient:SshWorkspaceSession subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient join started 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < version.exchangeVersions() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > version.exchangeVersions() succeeded t:204.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.4.0","platformVersion":"5.4.0.1089"} 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < workspace.joinWorkspace() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > workspace.joinWorkspace() succeeded t:218.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient joinWorkspace -> session:3 conversation:ff27671c-e3d1-4f4c-aa52-201783490826 join messages count:2 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient join completed 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient:1 Start checking connection timeout:5000 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare setWorkspaceSessionInfo 
+Object { sessionNumber: 3, conversationId: "ff27671c-e3d1-4f4c-aa52-201783490826", connectionMode: "local", sessions: {…}, accessControl: {…}, isPresentation: false, allowPortForwardingExternalConnections: false, rootFullPaths: (1) […], serviceNames: null, id: "EAC4EFD56D86D9223237D11C172637B702EB", … }
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237" 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare LS session joined and authenticated 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient Creating proxy for workspace service 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare connection status changed: connecting -> connected, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare firing change event:  
+Object { status: "connected", previousStatus: "connecting" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:onConnectionChanged:71CA5FF6236A1011DE54A06A19916DECBD60 connecting -> connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare 🔌 connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection-record subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare connection status changed: connecting -> connected, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare firing change event:  
+Object { status: "connected", previousStatus: "connecting" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:71CA5FF6236A1011DE54A06A19916DECBD60 connecting -> connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare 🔌 connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:connection-record subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { performance: {…}, trace: {…}, retryDelay: 100, rpcClient: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 connection record: false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode creating connection without a timeout 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode creating connection 
+Object { retries: 3, retryDelay: 100, timeout: Infinity, shouldReconnect: true, performance: {…}, trace: {…}, rpcClient: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode asked to connect 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode creating new connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode creating connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode connection status changed: none -> connecting, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode firing change event:  
+Object { status: "connecting", previousStatus: "none" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:onConnectionChanged:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 none -> connecting 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode get LS connection 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint requested to connect once 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:71CA5FF6236A1011DE54A06A19916DECBD60 connection record: true 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare-joint:71CA5FF6236A1011DE54A06A19916DECBD60 return connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:live-share-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare-joint:liveshare subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient Creating proxy for serverSharing service 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient Creating proxy for IVSCodeServerHostService service 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode starting vscode server.. 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode vscode started, forwarding the server port 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < IVSCodeServerHostService.startRemoteServerResult() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > workspace.servicesChanged: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > workspace.progressUpdated: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient Creating proxy for sourceEvent service 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component Connected by Main thread 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > IVSCodeServerHostService.startRemoteServerResult() succeeded t:2535.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode Executed start-remote-server using Live Share 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode the server port forwarded, port number is 35477 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode vscode server startup complete 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode forwarding the VSCode Server port "35477". 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < serverSharing.startSharing() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.browseSharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.startSharing() succeeded t:228.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode VSCode Server port "35477" forwarded. 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient Creating proxy for streamManager service 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode connection status changed: connecting -> connected, error: undefined 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode firing change event:  
+Object { status: "connected", previousStatus: "connecting" }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:onConnectionChanged:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 connecting -> connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode 🔌 connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:connection-record subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < streamManager.getStream() 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode starting vscode server.. 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode vscode started, forwarding the server port 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < IVSCodeServerHostService.startRemoteServerResult() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingSucceeded: 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > streamManager.getStream() succeeded t:335.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_1 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > streamManager.getStream() succeeded t:338.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_2 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.780Z,  Minimum Session Latency: 0.19s 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.780Z,  Maximum Session Latency: 0.33s 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.795Z,  Maximum Session Latency: 0.34s 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > IVSCodeServerHostService.startRemoteServerResult() succeeded t:2285.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode Executed start-remote-server using Live Share 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode the server port forwarded, port number is 41283 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode vscode server startup complete 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode forwarding the VSCode Server port "41283". 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < serverSharing.startSharing() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.browseSharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.startSharing() succeeded t:205.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench connection type MainThread 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/initial-connection/action_stop 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench initialize service worker connection 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { rpcClient: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 connection record: true 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 return connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { rpcClient: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 connection record: true 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:connection-hub:vscode:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 return connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench Creating workbench on #js-vscode-workbench-placeholder, with config:  
+Object { remoteAuthority: "codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64", webSocketFactory: {…}, connectionToken: "d49ac675-255a-44fc-b509-55dc69189964", productQualityChangeHandler: r(o), credentialsProvider: {…}, workspaceProvider: {…}, _enableBuiltinExtensions: true, urlCallbackProvider: {…}, resourceUriProvider: r(t), resolveExternalUri: resolveExternalUri(), … }
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/mount-workbench/action_stop 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingSucceeded: 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #1, url: wss://codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64:443/insider-7ed02a69658fc07f08740b98fa0d8d96c1a61ed4?reconnectionToken=0bc60013-c38b-415f-bb23-930b3394820b&reconnection=false&skipWebSocketFrames=false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 initializing the channel wss://codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64:443/insider-7ed02a69658fc07f08740b98fa0d8d96c1a61ed4?reconnectionToken=0bc60013-c38b-415f-bb23-930b3394820b&reconnection=false&skipWebSocketFrames=false 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/ls-connection/action_start 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 starting connection 
+Object { id: 3789392, name: "tangshimei-vscode-remote-try-node-gp9vvv6645g39w64", environment_id: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", owner: {…}, billable_owner: {…}, repository: {…}, machine: {…}, prebuild: null, created_at: "2022-08-25T13:59:08+08:00", updated_at: "2022-08-25T15:01:01+08:00", … }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 start connection, id 0, sessionId 71CA5FF6236A1011DE54A06A19916DECBD60 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { timeout: 120000, performance: {…}, trace: {…}, rpcClient: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 connection record: true 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 return connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 vscode connection established 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 opening ssh channel 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 sending the request: 
+GET wss://codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64:443/insider-7ed02a69658fc07f08740b98fa0d8d96c1a61ed4?reconnectionToken=0bc60013-c38b-415f-bb23-930b3394820b&reconnection=false&skipWebSocketFrames=true HTTP/1.1
+
+Connection: Upgrade
+
+Upgrade: websocket
+
+Sec-WebSocket-Key: 0dc24918fcd7d40ed64a57910627ee78557b062545bb046a8360cbf16711aafa
+
+
+
+
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 response: 
+HTTP/1.1 101 Switching Protocols
+
+Upgrade: websocket
+
+Connection: Upgrade
+
+Sec-WebSocket-Accept: AmFTlRVG4+VD2oZIUGNq7pqxP4w=
+
+
+
+
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 🔌 web socket connected 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 [0:reconnectionToken=0bc60013-c38b-415f-bb23-930b3394820b&reconnection=false&skipWebSocketFrames=false] Ssh channel open. 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench web socket 0 is connected 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/initial-connection-time 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/ls-connection/action_stop 185.c4aa12781d2f30fc5588.js:1:33246
+Request for font ".New York" blocked at visibility level 3 (requires 4)
+workbench.web.main.js:67:69446
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #2, url: wss://codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64:443/insider-7ed02a69658fc07f08740b98fa0d8d96c1a61ed4?reconnectionToken=e00d33eb-d7a5-47e4-a44d-6ac36dac5e38&reconnection=false&skipWebSocketFrames=false 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 initializing the channel wss://codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64:443/insider-7ed02a69658fc07f08740b98fa0d8d96c1a61ed4?reconnectionToken=e00d33eb-d7a5-47e4-a44d-6ac36dac5e38&reconnection=false&skipWebSocketFrames=false 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/ls-connection/action_start 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 starting connection 
+Object { id: 3789392, name: "tangshimei-vscode-remote-try-node-gp9vvv6645g39w64", environment_id: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", owner: {…}, billable_owner: {…}, repository: {…}, machine: {…}, prebuild: null, created_at: "2022-08-25T13:59:08+08:00", updated_at: "2022-08-25T15:01:01+08:00", … }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 start connection, id 1, sessionId 71CA5FF6236A1011DE54A06A19916DECBD60 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 requested to connect 
+Object { token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZGNTMwM0EzQTYxRERBRDQ5N0M1OUI3MzZEQTlEQjI0RjAwQjZCOTAiLCJ4NXQiOiJiMU1EbzZZZDJ0U1h4WnR6YmFuYkpQQUxhNUEiLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiJFQUM0RUZENTZEODZEOTIyMzIzN0QxMUMxNzI2MzdCNzAyRUIiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjYzNTcwODQyLCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6ImZhMmNmOThiLTI0MWQtNGM4Ny05MTFhLTVmOGI3MWU0Yjk3OSIsImlhdCI6MTY2MTQxMDg0MiwibmJmIjoxNjYxNDA5OTQyfQ.R-8nThG70gEwHdeLl3zM6ccmN8qx8iy4CuYZ4Pr2XFX3XghDgDlfeNDsSRxN8HUzIybUapdty3YTKbaa7uuq0UQTK7TLLfMxGYVbQw3gKTOBxXQaugMrXti5NGLEsIALJbNlhHP-CrzTE8CbjaS-sCreeiQSGno0yYyOsYUlfGyRexU4DzKZQSzN8IB5QYbNLocCj1E9ksKQJZG526s_RovtFRRjtBTkUVPJYxy9RQaFJvyHEQKIRSVyGLbrnrb5Wo_hxiMVGq5bHKqWh1HkPxeT1aGFCpGBA8CetQSnpBolD4S2ljq7pOd41UA0CQCvXXisNN6DZyuAPLQ20wDV4g", workspaceId: "71CA5FF6236A1011DE54A06A19916DECBD60", environmentId: "458b8a89-5c16-46e8-9ef4-2d1c8cc70721", telemetry: true, extensions: (3) […], vsCodeCommit: "7ed02a69658fc07f08740b98fa0d8d96c1a61ed4", vsCodeQuality: "insider", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", shouldReuseExistingServers: false }
+ 
+Object { timeout: 120000, performance: {…}, trace: {…}, rpcClient: {…} }
+185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 connection record: true 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4 return connected 185.c4aa12781d2f30fc5588.js:1:33336
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:71CA5FF6236A1011DE54A06A19916DECBD60_458b8a89-5c16-46e8-9ef4-2d1c8cc70721_insider_7ed02a69658fc07f08740b98fa0d8d96c1a61ed4:vscode subscribing to onDispose event 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 vscode connection established 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 opening ssh channel 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 sending the request: 
+GET wss://codespaces+tangshimei-vscode-remote-try-node-gp9vvv6645g39w64:443/insider-7ed02a69658fc07f08740b98fa0d8d96c1a61ed4?reconnectionToken=e00d33eb-d7a5-47e4-a44d-6ac36dac5e38&reconnection=false&skipWebSocketFrames=true HTTP/1.1
+
+Connection: Upgrade
+
+Upgrade: websocket
+
+Sec-WebSocket-Key: ebd681668a25c5082dc6eb3ca15ae3ff798f089feb75ed101cb4da762066ba74
+
+
+
+
+185.c4aa12781d2f30fc5588.js:1:33246
+Feature Policy: Skipping unsupported feature name “usb”. workbench.web.main.js:1998:23533
+Feature Policy: Skipping unsupported feature name “serial”. workbench.web.main.js:1998:23533
+Feature Policy: Skipping unsupported feature name “hid”. workbench.web.main.js:1998:23533
+Feature Policy: Skipping unsupported feature name “cross-origin-isolated”. workbench.web.main.js:1998:23533
+Feature Policy: Skipping unsupported feature name “usb”. workbench.web.main.js:1998:23689
+Feature Policy: Skipping unsupported feature name “serial”. workbench.web.main.js:1998:23689
+Feature Policy: Skipping unsupported feature name “hid”. workbench.web.main.js:1998:23689
+Feature Policy: Skipping unsupported feature name “cross-origin-isolated”. workbench.web.main.js:1998:23689
+Feature Policy: Skipping unsupported feature name “usb”. workbench.web.main.js:1998:24513
+Feature Policy: Skipping unsupported feature name “serial”. workbench.web.main.js:1998:24513
+Feature Policy: Skipping unsupported feature name “hid”. workbench.web.main.js:1998:24513
+Feature Policy: Skipping unsupported feature name “cross-origin-isolated”. workbench.web.main.js:1998:24513
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:12.892Z,  Maximum Session Latency: 1.86s 185.c4aa12781d2f30fc5588.js:1:33246
+Partitioned cookie or storage access was provided to “https://v--1ab6nnq4df8ui3bn83099noscb59hif82id65fpm5p7qn95lfb6o.vscode-cdn.net/insider/7ed02a69658fc07f08740b98fa0d8d96c1a61ed4/out/vs/workbench/services/extensions/worker/webWorkerExtensionHostIframe.html?parentOrigin=https%3A%2F%2Ftangshimei-vscode-remote-try-node-gp9vvv6645g39w64.latest-ppe.github.dev&salt=a4fbbb15-3ef1-4c57-9c99-bf13f43ce869&vscodeWebWorkerExtHostId=d6b53118-d95f-42ff-9289-26a587371433” because it is loaded in the third-party context and dynamic state partitioning is enabled.
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.792Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.24 KB / 0,
+ 	 6.31 KB / 4,
+ 	 6.55 KB / 1604,
+ 	 6.96 KB / 1804,
+ 	 7.70 KB / 1810,
+ 	 8.00 KB / 1902,
+ 	 8.30 KB / 1909,
+ 	 8.47 KB / 2195,
+ 	 8.66 KB / 4101,
+ 	 8.84 KB / 4840, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 response: 
+HTTP/1.1 101 Switching Protocols
+
+Upgrade: websocket
+
+Connection: Upgrade
+
+Sec-WebSocket-Accept: GaG6tw/Fr0ZEVLO+ubP829XLZ5Y=
+
+
+
+
+185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 🔌 web socket connected 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 [1:reconnectionToken=e00d33eb-d7a5-47e4-a44d-6ac36dac5e38&reconnection=false&skipWebSocketFrames=false] Ssh channel open. 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench web socket 1 is connected 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench notifying connected state 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespace-state-watcher stop, current state: "stopped" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/app-state-changed 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component render: "Connected", previous: "Available" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render state: "Connected" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render splash screen: false 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page render workbench: true 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:side-effects check: "Connected"/"Available" 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/total-connection-time 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/ls-connection/action_stop 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.795Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 7.87 KB / 0,
+ 	 7.95 KB / 2,
+ 	 8.12 KB / 1605,
+ 	 8.53 KB / 1970,
+ 	 8.71 KB / 2208,
+ 	 9.12 KB / 4061,
+ 	 9.34 KB / 5051,
+ 	 9.52 KB / 5110,
+ 	 9.71 KB / 5299,
+ 	 9.98 KB / 5317, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.780Z,  Session Latency / ms After Timestamp: 
+ 	 0.33s / 0,
+ 	 0.34s / 15,
+ 	 0.23s / 1615,
+ 	 0.19s / 1815,
+ 	 0.21s / 2206,
+ 	 1.86s / 4112,
+ 	 0.74s / 4852,
+ 	 0.23s / 5300,
+ 	 0.20s / 5328,
+ 	 0.25s / 5567, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:08.780Z,  Average Session Latency / ms After Timestamp: 
+ 	 0.23s / 0,
+ 	 0.25s / 15,
+ 	 0.25s / 1615,
+ 	 0.24s / 1815,
+ 	 0.24s / 2206,
+ 	 0.39s / 4112,
+ 	 0.41s / 4852,
+ 	 0.40s / 5300,
+ 	 0.39s / 5328,
+ 	 0.38s / 5567, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:14.080Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.92 KB / 0,
+ 	 9.11 KB / 28,
+ 	 9.20 KB / 267,
+ 	 9.28 KB / 276,
+ 	 9.36 KB / 421,
+ 	 11.69 KB / 549,
+ 	 11.77 KB / 585,
+ 	 27.82 KB / 723,
+ 	 43.88 KB / 751,
+ 	 59.93 KB / 924, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:15.006Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 75.98 KB / 0,
+ 	 92.03 KB / 14,
+ 	 108.08 KB / 226,
+ 	 124.13 KB / 234,
+ 	 140.18 KB / 235,
+ 	 156.23 KB / 238,
+ 	 172.28 KB / 295,
+ 	 188.33 KB / 296,
+ 	 204.38 KB / 430,
+ 	 220.43 KB / 432, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:15.439Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 236.48 KB / 0,
+ 	 252.54 KB / 1,
+ 	 268.59 KB / 35,
+ 	 284.64 KB / 35,
+ 	 300.69 KB / 85,
+ 	 316.74 KB / 90,
+ 	 332.79 KB / 98,
+ 	 348.84 KB / 200,
+ 	 364.89 KB / 201,
+ 	 380.94 KB / 204, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:15.646Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 396.99 KB / 0,
+ 	 413.04 KB / 27,
+ 	 429.09 KB / 28,
+ 	 445.14 KB / 85,
+ 	 461.20 KB / 89,
+ 	 477.25 KB / 101,
+ 	 493.30 KB / 201,
+ 	 509.35 KB / 204,
+ 	 525.40 KB / 214,
+ 	 541.45 KB / 225, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:15.918Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 557.50 KB / 0,
+ 	 573.55 KB / 18,
+ 	 589.60 KB / 26,
+ 	 605.65 KB / 68,
+ 	 621.70 KB / 70,
+ 	 637.75 KB / 96,
+ 	 653.80 KB / 99,
+ 	 669.86 KB / 208,
+ 	 685.91 KB / 208,
+ 	 701.96 KB / 263, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:16.181Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 718.01 KB / 0,
+ 	 734.06 KB / 228,
+ 	 750.11 KB / 235,
+ 	 766.16 KB / 238,
+ 	 782.21 KB / 240,
+ 	 798.26 KB / 242,
+ 	 814.31 KB / 243,
+ 	 830.36 KB / 245,
+ 	 846.41 KB / 321,
+ 	 862.46 KB / 327, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:16.509Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 878.52 KB / 0,
+ 	 894.57 KB / 1,
+ 	 910.62 KB / 2,
+ 	 926.67 KB / 96,
+ 	 942.72 KB / 145,
+ 	 958.77 KB / 148,
+ 	 974.82 KB / 149,
+ 	 990.87 KB / 152,
+ 	 1006.92 KB / 157,
+ 	 1022.97 KB / 158, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:16.713Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.01 MB / 0,
+ 	 1.03 MB / 49,
+ 	 1.05 MB / 51,
+ 	 1.06 MB / 51,
+ 	 1.08 MB / 67,
+ 	 1.09 MB / 76,
+ 	 1.11 MB / 80,
+ 	 1.12 MB / 87,
+ 	 1.14 MB / 100,
+ 	 1.16 MB / 116, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:16.831Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.17 MB / 0,
+ 	 1.19 MB / 4,
+ 	 1.20 MB / 15,
+ 	 1.22 MB / 17,
+ 	 1.23 MB / 20,
+ 	 1.25 MB / 157,
+ 	 1.27 MB / 186,
+ 	 1.28 MB / 199,
+ 	 1.30 MB / 203,
+ 	 1.31 MB / 204, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:17.040Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.33 MB / 0,
+ 	 1.34 MB / 11,
+ 	 1.36 MB / 20,
+ 	 1.38 MB / 34,
+ 	 1.39 MB / 55,
+ 	 1.41 MB / 70,
+ 	 1.42 MB / 87,
+ 	 1.44 MB / 110,
+ 	 1.45 MB / 115,
+ 	 1.47 MB / 116, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:17.157Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.48 MB / 0,
+ 	 1.50 MB / 61,
+ 	 1.52 MB / 62,
+ 	 1.53 MB / 62,
+ 	 1.55 MB / 63,
+ 	 1.56 MB / 96,
+ 	 1.58 MB / 97,
+ 	 1.59 MB / 97,
+ 	 1.61 MB / 193,
+ 	 1.63 MB / 194, 185.c4aa12781d2f30fc5588.js:1:33246
+  ERR Unable to resolve nonexistent file 'vscode-userdata:/User/profiles': M@https://main.vscode-cdn.net/insider/7ed02a69658fc07f08740b98fa0d8d96c1a61ed4/out/vs/workbench/workbench.web.main.js:596:19577
+resolve@https://main.vscode-cdn.net/insider/7ed02a69658fc07f08740b98fa0d8d96c1a61ed4/out/vs/workbench/workbench.web.main.js:600:13441
+workbench.web.main.js:600:3888
+Uncaught (in promise) Error: Unable to resolve nonexistent file 'vscode-userdata:/User/profiles'
+    M https://main.vscode-cdn.net/insider/7ed02a69658fc07f08740b98fa0d8d96c1a61ed4/out/vs/workbench/workbench.web.main.js:596
+    resolve https://main.vscode-cdn.net/insider/7ed02a69658fc07f08740b98fa0d8d96c1a61ed4/out/vs/workbench/workbench.web.main.js:600
+workbench.web.main.js:596:19577
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:17.353Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.64 MB / 0,
+ 	 1.66 MB / 104,
+ 	 1.67 MB / 137,
+ 	 1.69 MB / 332,
+ 	 1.70 MB / 333,
+ 	 1.72 MB / 334,
+ 	 1.74 MB / 336,
+ 	 1.75 MB / 347,
+ 	 1.77 MB / 374,
+ 	 1.78 MB / 378, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:17.740Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.80 MB / 0,
+ 	 1.81 MB / 2,
+ 	 1.83 MB / 6,
+ 	 1.85 MB / 8,
+ 	 1.86 MB / 12,
+ 	 1.88 MB / 15,
+ 	 1.89 MB / 16,
+ 	 1.91 MB / 64,
+ 	 1.92 MB / 67,
+ 	 1.94 MB / 117, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:17.860Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 1.96 MB / 0,
+ 	 1.97 MB / 3,
+ 	 1.99 MB / 3,
+ 	 2.00 MB / 21,
+ 	 2.02 MB / 23,
+ 	 2.04 MB / 24,
+ 	 2.05 MB / 25,
+ 	 2.06 MB / 53,
+ 	 2.08 MB / 54,
+ 	 2.10 MB / 55, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:17.919Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 2.11 MB / 0,
+ 	 2.13 MB / 25,
+ 	 2.14 MB / 26,
+ 	 2.16 MB / 69,
+ 	 2.17 MB / 73,
+ 	 2.19 MB / 127,
+ 	 2.21 MB / 129,
+ 	 2.22 MB / 130,
+ 	 2.24 MB / 138,
+ 	 2.25 MB / 157, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:18.077Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 2.27 MB / 0,
+ 	 2.28 MB / 0,
+ 	 2.30 MB / 4,
+ 	 2.32 MB / 19,
+ 	 2.33 MB / 37,
+ 	 2.35 MB / 37,
+ 	 2.36 MB / 42,
+ 	 2.38 MB / 44,
+ 	 2.39 MB / 77,
+ 	 2.41 MB / 78, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:14.355Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 12.64 KB / 0,
+ 	 23.85 KB / 310,
+ 	 23.97 KB / 318,
+ 	 24.03 KB / 1497,
+ 	 24.08 KB / 2312,
+ 	 24.13 KB / 2802,
+ 	 24.18 KB / 3507,
+ 	 24.23 KB / 3838,
+ 	 24.29 KB / 4000,
+ 	 24.86 KB / 4000, 185.c4aa12781d2f30fc5588.js:1:33246
+CRITI Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned. workbench.web.main.js:600:3978
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:18.183Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 2.43 MB / 0,
+ 	 2.44 MB / 9,
+ 	 2.46 MB / 156,
+ 	 2.47 MB / 186,
+ 	 2.49 MB / 187,
+ 	 2.50 MB / 197,
+ 	 2.52 MB / 228,
+ 	 2.54 MB / 242,
+ 	 2.55 MB / 251,
+ 	 2.56 MB / 4773, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:23.480Z,  Maximum Session Latency: 4.91s 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:23.511Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 2.58 MB / 0,
+ 	 2.59 MB / 473,
+ 	 2.61 MB / 683,
+ 	 2.62 MB / 702,
+ 	 2.64 MB / 713,
+ 	 2.65 MB / 716,
+ 	 2.67 MB / 717,
+ 	 2.69 MB / 718,
+ 	 2.70 MB / 719,
+ 	 2.72 MB / 719, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:24.232Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 2.73 MB / 0,
+ 	 2.75 MB / 2,
+ 	 2.76 MB / 3,
+ 	 2.78 MB / 5,
+ 	 2.80 MB / 7,
+ 	 2.81 MB / 20,
+ 	 2.83 MB / 22,
+ 	 2.84 MB / 23,
+ 	 2.86 MB / 24,
+ 	 2.87 MB / 25, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:24.259Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 2.89 MB / 0,
+ 	 2.91 MB / 1,
+ 	 2.92 MB / 20,
+ 	 2.94 MB / 21,
+ 	 2.95 MB / 28,
+ 	 2.97 MB / 160,
+ 	 2.98 MB / 244,
+ 	 3.00 MB / 259,
+ 	 3.02 MB / 259,
+ 	 3.03 MB / 261, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:24.520Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.05 MB / 0,
+ 	 3.06 MB / 2,
+ 	 3.08 MB / 4,
+ 	 3.09 MB / 7,
+ 	 3.11 MB / 10,
+ 	 3.13 MB / 12,
+ 	 3.14 MB / 12,
+ 	 3.16 MB / 13,
+ 	 3.17 MB / 14,
+ 	 3.19 MB / 14, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:24.535Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.20 MB / 0,
+ 	 3.22 MB / 1,
+ 	 3.23 MB / 2,
+ 	 3.25 MB / 3,
+ 	 3.27 MB / 256,
+ 	 3.28 MB / 589,
+ 	 3.30 MB / 606,
+ 	 3.31 MB / 608,
+ 	 3.33 MB / 623,
+ 	 3.34 MB / 1797, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:26.577Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.36 MB / 0,
+ 	 3.38 MB / 421,
+ 	 3.39 MB / 495,
+ 	 3.41 MB / 510,
+ 	 3.42 MB / 517,
+ 	 3.44 MB / 520,
+ 	 3.45 MB / 868,
+ 	 3.47 MB / 881,
+ 	 3.49 MB / 882,
+ 	 3.50 MB / 882, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:27.461Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.52 MB / 0,
+ 	 3.53 MB / 2,
+ 	 3.55 MB / 399,
+ 	 3.56 MB / 442,
+ 	 3.58 MB / 448,
+ 	 3.60 MB / 449,
+ 	 3.61 MB / 450,
+ 	 3.63 MB / 592,
+ 	 3.64 MB / 594,
+ 	 3.66 MB / 597, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.059Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.67 MB / 0,
+ 	 3.69 MB / 0,
+ 	 3.71 MB / 1,
+ 	 3.72 MB / 1,
+ 	 3.74 MB / 2,
+ 	 3.75 MB / 10,
+ 	 3.77 MB / 11,
+ 	 3.78 MB / 12,
+ 	 3.80 MB / 15,
+ 	 3.81 MB / 15, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.075Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.83 MB / 0,
+ 	 3.85 MB / 0,
+ 	 3.86 MB / 1,
+ 	 3.88 MB / 2,
+ 	 3.89 MB / 2,
+ 	 3.91 MB / 3,
+ 	 3.92 MB / 4,
+ 	 3.94 MB / 7,
+ 	 3.96 MB / 8,
+ 	 3.97 MB / 9, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.085Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 3.99 MB / 0,
+ 	 4.00 MB / 1,
+ 	 4.02 MB / 1,
+ 	 4.03 MB / 2,
+ 	 4.05 MB / 4,
+ 	 4.07 MB / 6,
+ 	 4.08 MB / 6,
+ 	 4.10 MB / 7,
+ 	 4.11 MB / 8,
+ 	 4.13 MB / 9, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.094Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 4.14 MB / 0,
+ 	 4.15 MB / 342,
+ 	 4.17 MB / 342,
+ 	 4.19 MB / 343,
+ 	 4.20 MB / 344,
+ 	 4.22 MB / 348,
+ 	 4.23 MB / 349,
+ 	 4.25 MB / 350,
+ 	 4.26 MB / 357,
+ 	 4.28 MB / 358, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.454Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 4.30 MB / 0,
+ 	 4.31 MB / 1,
+ 	 4.33 MB / 1,
+ 	 4.34 MB / 104,
+ 	 4.36 MB / 117,
+ 	 4.37 MB / 118,
+ 	 4.39 MB / 119,
+ 	 4.41 MB / 120,
+ 	 4.42 MB / 120,
+ 	 4.44 MB / 120, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.575Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 4.45 MB / 0,
+ 	 4.47 MB / 3,
+ 	 4.48 MB / 5,
+ 	 4.50 MB / 6,
+ 	 4.52 MB / 6,
+ 	 4.53 MB / 7,
+ 	 4.55 MB / 7,
+ 	 4.56 MB / 8,
+ 	 4.58 MB / 8,
+ 	 4.59 MB / 11, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.586Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 4.61 MB / 0,
+ 	 4.63 MB / 1,
+ 	 4.64 MB / 1,
+ 	 4.66 MB / 2,
+ 	 4.67 MB / 2,
+ 	 4.69 MB / 3,
+ 	 4.70 MB / 3,
+ 	 4.72 MB / 5,
+ 	 4.73 MB / 5,
+ 	 4.75 MB / 8, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.595Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 4.77 MB / 0,
+ 	 4.78 MB / 1,
+ 	 4.80 MB / 2,
+ 	 4.81 MB / 2,
+ 	 4.83 MB / 4,
+ 	 4.84 MB / 7,
+ 	 4.86 MB / 9,
+ 	 4.88 MB / 10,
+ 	 4.89 MB / 12,
+ 	 4.91 MB / 22, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+Uncaught (in promise) Request 1 timed out (15000ms)
+Uncaught (in promise) Request 2 timed out (15000ms)
+Uncaught (in promise) Request 3 timed out (15000ms)
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.browseSharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingSucceeded: 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:24.287Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 24.91 KB / 0,
+ 	 24.96 KB / 2810,
+ 	 25.01 KB / 3792,
+ 	 25.06 KB / 4286,
+ 	 25.12 KB / 4320,
+ 	 41.17 KB / 13510,
+ 	 56.67 KB / 13510,
+ 	 72.72 KB / 15491,
+ 	 88.77 KB / 15501,
+ 	 104.82 KB / 15512, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:39.816Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 120.87 KB / 0,
+ 	 136.92 KB / 409,
+ 	 152.97 KB / 531,
+ 	 169.03 KB / 553,
+ 	 185.08 KB / 561,
+ 	 201.13 KB / 591,
+ 	 217.18 KB / 609,
+ 	 233.23 KB / 631,
+ 	 249.28 KB / 688,
+ 	 265.33 KB / 723, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:40.567Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 281.38 KB / 0,
+ 	 297.43 KB / 1533,
+ 	 313.48 KB / 1551,
+ 	 329.53 KB / 1679,
+ 	 345.58 KB / 1723,
+ 	 361.63 KB / 1743,
+ 	 363.89 KB / 1766,
+ 	 379.94 KB / 1774,
+ 	 395.99 KB / 1799,
+ 	 412.04 KB / 1807, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:42.375Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 412.44 KB / 0,
+ 	 428.49 KB / 1,
+ 	 444.54 KB / 2,
+ 	 460.59 KB / 4,
+ 	 476.64 KB / 5,
+ 	 492.69 KB / 5,
+ 	 508.74 KB / 6,
+ 	 524.79 KB / 7,
+ 	 540.84 KB / 8,
+ 	 556.89 KB / 8, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:42.385Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 572.94 KB / 0,
+ 	 588.99 KB / 0,
+ 	 605.04 KB / 1,
+ 	 621.10 KB / 1,
+ 	 637.15 KB / 2,
+ 	 653.20 KB / 3,
+ 	 669.25 KB / 3,
+ 	 685.30 KB / 4,
+ 	 701.35 KB / 5,
+ 	 717.40 KB / 5, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:42.391Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 733.45 KB / 0,
+ 	 749.50 KB / 2,
+ 	 765.55 KB / 3,
+ 	 781.60 KB / 5,
+ 	 797.65 KB / 489,
+ 	 813.71 KB / 499,
+ 	 829.76 KB / 500,
+ 	 829.96 KB / 501,
+ 	 846.01 KB / 501,
+ 	 862.06 KB / 502, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:42.894Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 878.12 KB / 0,
+ 	 894.17 KB / 1,
+ 	 910.22 KB / 2,
+ 	 926.27 KB / 2,
+ 	 942.32 KB / 3,
+ 	 958.37 KB / 4,
+ 	 974.42 KB / 5,
+ 	 990.47 KB / 6,
+ 	 1006.52 KB / 8,
+ 	 1022.57 KB / 9, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:14.355Z,  Session Latency / ms After Timestamp: 
+ 	 0.24s / 0,
+ 	 0.26s / 274,
+ 	 0.91s / 2407,
+ 	 1.21s / 3522,
+ 	 4.91s / 9125,
+ 	 1.56s / 16634,
+ 	 1.52s / 24979,
+ 	 1.99s / 25446,
+ 	 4.15s / 32140,
+ 	 4.48s / 32504, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:14.355Z,  Average Session Latency / ms After Timestamp: 
+ 	 0.37s / 0,
+ 	 0.36s / 274,
+ 	 0.39s / 2407,
+ 	 0.44s / 3522,
+ 	 0.66s / 9125,
+ 	 0.70s / 16634,
+ 	 0.74s / 24979,
+ 	 0.79s / 25446,
+ 	 0.93s / 32140,
+ 	 1.08s / 32504, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:47.945Z,  Maximum Session Latency: 5.04s 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:28.620Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 4.92 MB / 0,
+ 	 4.93 MB / 1,
+ 	 4.95 MB / 10714,
+ 	 4.96 MB / 11168,
+ 	 4.98 MB / 11727,
+ 	 4.99 MB / 19330,
+ 	 5.00 MB / 19335,
+ 	 5.01 MB / 19343,
+ 	 5.03 MB / 19409,
+ 	 5.04 MB / 19562, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:48.183Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.06 MB / 0,
+ 	 5.07 MB / 2,
+ 	 5.09 MB / 38,
+ 	 5.11 MB / 39,
+ 	 5.12 MB / 40,
+ 	 5.14 MB / 209,
+ 	 5.15 MB / 212,
+ 	 5.17 MB / 221,
+ 	 5.18 MB / 247,
+ 	 5.20 MB / 263, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:48.447Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.22 MB / 0,
+ 	 5.23 MB / 169,
+ 	 5.25 MB / 170,
+ 	 5.26 MB / 171,
+ 	 5.28 MB / 172,
+ 	 5.29 MB / 172,
+ 	 5.31 MB / 226,
+ 	 5.32 MB / 227,
+ 	 5.33 MB / 230,
+ 	 5.34 MB / 230, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:48.678Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.36 MB / 0,
+ 	 5.38 MB / 1,
+ 	 5.39 MB / 2,
+ 	 5.41 MB / 184,
+ 	 5.43 MB / 188,
+ 	 5.44 MB / 192,
+ 	 5.46 MB / 194,
+ 	 5.47 MB / 198,
+ 	 5.49 MB / 201,
+ 	 5.51 MB / 216, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:48.898Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.53 MB / 0,
+ 	 5.54 MB / 0,
+ 	 5.56 MB / 1,
+ 	 5.58 MB / 1,
+ 	 5.59 MB / 189,
+ 	 5.61 MB / 197,
+ 	 5.62 MB / 198,
+ 	 5.64 MB / 199,
+ 	 5.65 MB / 200,
+ 	 5.67 MB / 208, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:49.220Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.69 MB / 0,
+ 	 5.70 MB / 2,
+ 	 5.72 MB / 7,
+ 	 5.73 MB / 9,
+ 	 5.75 MB / 10,
+ 	 5.76 MB / 57,
+ 	 5.78 MB / 73,
+ 	 5.80 MB / 74,
+ 	 5.81 MB / 1095,
+ 	 5.83 MB / 1158, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:50.381Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.85 MB / 0,
+ 	 5.86 MB / 2,
+ 	 5.88 MB / 5,
+ 	 5.89 MB / 6,
+ 	 5.91 MB / 7,
+ 	 5.92 MB / 7,
+ 	 5.93 MB / 8,
+ 	 5.94 MB / 8,
+ 	 5.96 MB / 9,
+ 	 5.97 MB / 15, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:42.904Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.01 MB / 0,
+ 	 1.03 MB / 1,
+ 	 1.05 MB / 2,
+ 	 1.06 MB / 3,
+ 	 1.07 MB / 3057,
+ 	 1.08 MB / 5044,
+ 	 1.09 MB / 8193,
+ 	 1.11 MB / 8195,
+ 	 1.13 MB / 8195,
+ 	 1.14 MB / 8197, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:50.493Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 5.99 MB / 0,
+ 	 6.01 MB / 149,
+ 	 6.02 MB / 151,
+ 	 6.04 MB / 152,
+ 	 6.05 MB / 153,
+ 	 6.07 MB / 161,
+ 	 6.08 MB / 164,
+ 	 6.10 MB / 169,
+ 	 6.12 MB / 173,
+ 	 6.13 MB / 2050, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:52.569Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.14 MB / 0,
+ 	 6.16 MB / 5,
+ 	 6.17 MB / 22,
+ 	 6.19 MB / 25,
+ 	 6.20 MB / 28,
+ 	 6.22 MB / 29,
+ 	 6.24 MB / 31,
+ 	 6.25 MB / 34,
+ 	 6.27 MB / 38,
+ 	 6.28 MB / 39, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:52.611Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.30 MB / 0,
+ 	 6.31 MB / 0,
+ 	 6.33 MB / 900,
+ 	 6.34 MB / 906,
+ 	 6.36 MB / 915,
+ 	 6.38 MB / 934,
+ 	 6.39 MB / 941,
+ 	 6.41 MB / 942,
+ 	 6.42 MB / 943,
+ 	 6.44 MB / 948, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:53.562Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.45 MB / 0,
+ 	 6.47 MB / 3,
+ 	 6.49 MB / 4,
+ 	 6.50 MB / 6,
+ 	 6.52 MB / 10,
+ 	 6.53 MB / 11,
+ 	 6.55 MB / 13,
+ 	 6.56 MB / 14,
+ 	 6.58 MB / 15,
+ 	 6.60 MB / 16, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:53.580Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.61 MB / 0,
+ 	 6.63 MB / 1,
+ 	 6.64 MB / 2,
+ 	 6.66 MB / 3,
+ 	 6.67 MB / 3,
+ 	 6.69 MB / 4,
+ 	 6.71 MB / 4,
+ 	 6.72 MB / 5,
+ 	 6.74 MB / 7,
+ 	 6.75 MB / 9, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:53.590Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.77 MB / 0,
+ 	 6.78 MB / 4,
+ 	 6.80 MB / 5,
+ 	 6.82 MB / 6,
+ 	 6.83 MB / 25,
+ 	 6.85 MB / 38,
+ 	 6.86 MB / 78,
+ 	 6.88 MB / 91,
+ 	 6.89 MB / 94,
+ 	 6.91 MB / 99, 185.c4aa12781d2f30fc5588.js:1:33246
+Element already has context attribute: pane, expanded, horizontal workbench.web.main.js:595:66231
+  ERR [Extension Host] (node:846) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) workbench.web.main.js:600:3888
+[Extension Host] (node:846) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) workbench.web.main.js:84:453
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:47.552Z,  Session Latency / ms After Timestamp: 
+ 	 4.66s / 0,
+ 	 5.04s / 393,
+ 	 1.98s / 396,
+ 	 0.90s / 398,
+ 	 1.39s / 1830,
+ 	 0.21s / 2762,
+ 	 0.47s / 4038,
+ 	 0.41s / 4966,
+ 	 2.35s / 8539,
+ 	 0.22s / 10396, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:47.552Z,  Average Session Latency / ms After Timestamp: 
+ 	 1.21s / 0,
+ 	 1.35s / 393,
+ 	 1.38s / 396,
+ 	 1.36s / 398,
+ 	 1.36s / 1830,
+ 	 1.32s / 2762,
+ 	 1.30s / 4038,
+ 	 1.27s / 4966,
+ 	 1.30s / 8539,
+ 	 1.27s / 10396, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscs:web-client:eb8a:codespaces-component:workbench-page:workbench:vscode-workbench:providers:credentials-provider Found password in partner info strategy as well. Merging results. 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+Uncaught (in promise) Request 30 timed out (15000ms)
+Uncaught (in promise) Request 31 timed out (15000ms)
+Uncaught (in promise) Request 32 timed out (15000ms)
+Uncaught (in promise) Request 33 timed out (15000ms)
+Uncaught (in promise) Request 34 timed out (15000ms)
+Uncaught (in promise) Request 35 timed out (15000ms)
+Uncaught (in promise) Request 36 timed out (15000ms)
+Uncaught (in promise) Request 37 timed out (15000ms)
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:53.843Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 6.92 MB / 0,
+ 	 6.93 MB / 4107,
+ 	 6.94 MB / 5785,
+ 	 6.95 MB / 10574,
+ 	 6.96 MB / 15809,
+ 	 6.97 MB / 16359,
+ 	 6.98 MB / 16396,
+ 	 6.99 MB / 29829,
+ 	 7.00 MB / 29891,
+ 	 7.02 MB / 29898, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:23.743Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.03 MB / 0,
+ 	 7.05 MB / 2,
+ 	 7.06 MB / 14,
+ 	 7.08 MB / 16,
+ 	 7.09 MB / 18,
+ 	 7.11 MB / 25,
+ 	 7.13 MB / 25,
+ 	 7.14 MB / 70,
+ 	 7.16 MB / 72,
+ 	 7.17 MB / 184, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:23.930Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.19 MB / 0,
+ 	 7.20 MB / 0,
+ 	 7.22 MB / 1,
+ 	 7.24 MB / 16,
+ 	 7.25 MB / 17,
+ 	 7.27 MB / 17,
+ 	 7.28 MB / 19,
+ 	 7.30 MB / 20,
+ 	 7.31 MB / 21,
+ 	 7.33 MB / 22, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:23.952Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.35 MB / 0,
+ 	 7.36 MB / 324,
+ 	 7.38 MB / 392,
+ 	 7.39 MB / 394,
+ 	 7.41 MB / 395,
+ 	 7.42 MB / 396,
+ 	 7.44 MB / 397,
+ 	 7.46 MB / 694,
+ 	 7.47 MB / 788,
+ 	 7.49 MB / 789, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:24.742Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.50 MB / 0,
+ 	 7.52 MB / 1,
+ 	 7.53 MB / 2,
+ 	 7.55 MB / 4,
+ 	 7.57 MB / 5,
+ 	 7.58 MB / 6,
+ 	 7.60 MB / 6,
+ 	 7.61 MB / 7,
+ 	 7.63 MB / 8,
+ 	 7.64 MB / 9, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:24.752Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.66 MB / 0,
+ 	 7.67 MB / 6,
+ 	 7.69 MB / 6,
+ 	 7.71 MB / 7,
+ 	 7.72 MB / 15,
+ 	 7.74 MB / 16,
+ 	 7.75 MB / 18,
+ 	 7.77 MB / 18,
+ 	 7.78 MB / 579,
+ 	 7.79 MB / 9778, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:51.103Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.16 MB / 0,
+ 	 1.17 MB / 0,
+ 	 1.18 MB / 1,
+ 	 1.19 MB / 17169,
+ 	 1.20 MB / 32293,
+ 	 1.21 MB / 33263,
+ 	 1.22 MB / 45949,
+ 	 1.23 MB / 56598,
+ 	 1.25 MB / 56603,
+ 	 1.27 MB / 56612, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:59.588Z,  Session Latency / ms After Timestamp: 
+ 	 0.45s / 0,
+ 	 0.50s / 9191,
+ 	 0.32s / 10064,
+ 	 0.25s / 24059,
+ 	 0.95s / 25742,
+ 	 0.51s / 34886,
+ 	 0.62s / 35160,
+ 	 2.79s / 39269,
+ 	 1.34s / 39499,
+ 	 1.47s / 49598, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:01:59.588Z,  Average Session Latency / ms After Timestamp: 
+ 	 1.25s / 0,
+ 	 1.23s / 9191,
+ 	 1.20s / 10064,
+ 	 1.18s / 24059,
+ 	 1.17s / 25742,
+ 	 1.16s / 34886,
+ 	 1.15s / 35160,
+ 	 1.18s / 39269,
+ 	 1.19s / 39499,
+ 	 1.19s / 49598, 185.c4aa12781d2f30fc5588.js:1:33246
+Uncaught (in promise) Request 40 timed out (15000ms)
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:03.363Z,  Maximum Session Latency: 7.42s 185.c4aa12781d2f30fc5588.js:1:33246
+[Extension Host] rejected promise not handled within 1 second: Failed to execute git {
+  "exitCode": 1,
+  "gitCommand": "config",
+  "stdout": "",
+  "stderr": ""
+} workbench.web.main.js:84:453
+  ERR Failed to execute git workbench.web.main.js:600:3888
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.browseSharingStarted: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > sourceEvent.event: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient < sourceEvent.fireEvent() 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > serverSharing.sharingSucceeded: 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > sourceEvent.event: 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component:connection-hub:liveshare:connection:71CA5FF6236A1011DE54A06A19916DECBD60:liveshare:WorkspaceClient > sourceEvent.fireEvent() succeeded t:1163.0 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:47.723Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.28 MB / 0,
+ 	 1.29 MB / 1,
+ 	 1.31 MB / 8031,
+ 	 1.33 MB / 8155,
+ 	 1.34 MB / 8158,
+ 	 1.36 MB / 8159,
+ 	 1.37 MB / 8160,
+ 	 1.38 MB / 19831,
+ 	 1.40 MB / 28560,
+ 	 1.41 MB / 28583, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:50.069Z,  Session Latency / ms After Timestamp: 
+ 	 2.31s / 0,
+ 	 0.55s / 2778,
+ 	 3.46s / 11283,
+ 	 7.42s / 13294,
+ 	 0.51s / 15976,
+ 	 0.28s / 17798,
+ 	 1.15s / 25037,
+ 	 0.78s / 25565,
+ 	 0.34s / 26578,
+ 	 0.66s / 26932, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:50.069Z,  Average Session Latency / ms After Timestamp: 
+ 	 1.22s / 0,
+ 	 1.20s / 2778,
+ 	 1.25s / 11283,
+ 	 1.38s / 13294,
+ 	 1.36s / 15976,
+ 	 1.34s / 17798,
+ 	 1.33s / 25037,
+ 	 1.32s / 25565,
+ 	 1.31s / 26578,
+ 	 1.29s / 26932, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 2 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:21.573Z,  Session Latency / ms After Timestamp: 
+ 	 0.43s / 0,
+ 	 0.19s / 774,
+ 	 0.37s / 13545,
+ 	 0.39s / 13584,
+ 	 0.19s / 15441,
+ 	 0.21s / 15466,
+ 	 0.23s / 16640,
+ 	 0.19s / 18883,
+ 	 0.43s / 20328,
+ 	 0.43s / 25218, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:21.573Z,  Average Session Latency / ms After Timestamp: 
+ 	 1.28s / 0,
+ 	 1.26s / 774,
+ 	 1.24s / 13545,
+ 	 1.23s / 13584,
+ 	 1.21s / 15441,
+ 	 1.20s / 15466,
+ 	 1.18s / 16640,
+ 	 1.16s / 18883,
+ 	 1.15s / 20328,
+ 	 1.14s / 25218, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:47.053Z,  Session Latency / ms After Timestamp: 
+ 	 0.23s / 0,
+ 	 0.28s / 96,
+ 	 0.27s / 368,
+ 	 0.40s / 525,
+ 	 0.28s / 550,
+ 	 0.19s / 565,
+ 	 0.30s / 831,
+ 	 0.28s / 834,
+ 	 0.27s / 836,
+ 	 0.22s / 1369, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:47.053Z,  Average Session Latency / ms After Timestamp: 
+ 	 1.13s / 0,
+ 	 1.12s / 96,
+ 	 1.10s / 368,
+ 	 1.09s / 525,
+ 	 1.08s / 550,
+ 	 1.07s / 565,
+ 	 1.06s / 831,
+ 	 1.05s / 834,
+ 	 1.04s / 836,
+ 	 1.03s / 1369, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:16.317Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.43 MB / 0,
+ 	 1.44 MB / 16,
+ 	 1.46 MB / 19,
+ 	 1.47 MB / 23944,
+ 	 1.48 MB / 32125,
+ 	 1.49 MB / 32741,
+ 	 1.51 MB / 33723,
+ 	 1.52 MB / 33769,
+ 	 1.54 MB / 33772,
+ 	 1.56 MB / 33994, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:48.597Z,  Session Latency / ms After Timestamp: 
+ 	 0.71s / 0,
+ 	 0.70s / 9,
+ 	 0.53s / 395,
+ 	 0.26s / 1726,
+ 	 0.32s / 2052,
+ 	 0.33s / 2389,
+ 	 0.38s / 2791,
+ 	 0.23s / 3025,
+ 	 1.51s / 4571,
+ 	 0.26s / 5894, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:48.597Z,  Average Session Latency / ms After Timestamp: 
+ 	 1.02s / 0,
+ 	 1.02s / 9,
+ 	 1.01s / 395,
+ 	 1.00s / 1726,
+ 	 0.99s / 2052,
+ 	 0.99s / 2389,
+ 	 0.98s / 2791,
+ 	 0.97s / 3025,
+ 	 0.98s / 4571,
+ 	 0.97s / 5894, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:59.307Z,  Session Latency / ms After Timestamp: 
+ 	 0.33s / 0,
+ 	 0.28s / 311,
+ 	 0.41s / 471,
+ 	 0.59s / 1060,
+ 	 0.59s / 1742,
+ 	 0.63s / 2382,
+ 	 0.60s / 3010,
+ 	 1.23s / 5365,
+ 	 0.81s / 5371,
+ 	 0.43s / 6094, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:03:59.307Z,  Average Session Latency / ms After Timestamp: 
+ 	 0.96s / 0,
+ 	 0.95s / 311,
+ 	 0.95s / 471,
+ 	 0.94s / 1060,
+ 	 0.94s / 1742,
+ 	 0.93s / 2382,
+ 	 0.93s / 3010,
+ 	 0.93s / 5365,
+ 	 0.93s / 5371,
+ 	 0.93s / 6094, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:02:37.406Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.80 MB / 0,
+ 	 7.81 MB / 12663,
+ 	 7.82 MB / 25959,
+ 	 7.83 MB / 26493,
+ 	 7.84 MB / 36367,
+ 	 7.85 MB / 41113,
+ 	 7.86 MB / 70010,
+ 	 7.87 MB / 71586,
+ 	 7.88 MB / 73580,
+ 	 7.89 MB / 87996, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:05.574Z,  Session Latency / ms After Timestamp: 
+ 	 0.40s / 0,
+ 	 0.33s / 1815,
+ 	 0.63s / 2312,
+ 	 0.54s / 2317,
+ 	 0.30s / 2509,
+ 	 0.25s / 5472,
+ 	 0.19s / 5679,
+ 	 0.20s / 5889,
+ 	 0.22s / 6235,
+ 	 0.23s / 6475, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:05.574Z,  Average Session Latency / ms After Timestamp: 
+ 	 0.92s / 0,
+ 	 0.92s / 1815,
+ 	 0.91s / 2312,
+ 	 0.91s / 2317,
+ 	 0.90s / 2509,
+ 	 0.90s / 5472,
+ 	 0.89s / 5679,
+ 	 0.88s / 5889,
+ 	 0.88s / 6235,
+ 	 0.87s / 6475, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:13.057Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 7.91 MB / 0,
+ 	 7.92 MB / 7,
+ 	 7.94 MB / 258,
+ 	 7.96 MB / 330,
+ 	 7.98 MB / 416,
+ 	 7.99 MB / 640,
+ 	 8.01 MB / 643,
+ 	 8.02 MB / 644,
+ 	 8.04 MB / 645,
+ 	 8.05 MB / 854, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:13.912Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.07 MB / 0,
+ 	 8.09 MB / 6,
+ 	 8.10 MB / 8,
+ 	 8.12 MB / 307,
+ 	 8.13 MB / 359,
+ 	 8.15 MB / 360,
+ 	 8.16 MB / 497,
+ 	 8.18 MB / 552,
+ 	 8.20 MB / 562,
+ 	 8.21 MB / 569, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:14.607Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.23 MB / 0,
+ 	 8.24 MB / 78,
+ 	 8.26 MB / 79,
+ 	 8.27 MB / 309,
+ 	 8.29 MB / 310,
+ 	 8.30 MB / 311,
+ 	 8.32 MB / 333,
+ 	 8.34 MB / 565,
+ 	 8.35 MB / 567,
+ 	 8.37 MB / 567, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:15.343Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.38 MB / 0,
+ 	 8.40 MB / 61,
+ 	 8.41 MB / 63,
+ 	 8.43 MB / 64,
+ 	 8.45 MB / 419,
+ 	 8.46 MB / 420,
+ 	 8.48 MB / 448,
+ 	 8.49 MB / 449,
+ 	 8.51 MB / 657,
+ 	 8.52 MB / 657, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:16.005Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.54 MB / 0,
+ 	 8.56 MB / 2,
+ 	 8.57 MB / 221,
+ 	 8.59 MB / 253,
+ 	 8.60 MB / 264,
+ 	 8.62 MB / 279,
+ 	 8.63 MB / 478,
+ 	 8.65 MB / 482,
+ 	 8.67 MB / 483,
+ 	 8.68 MB / 488, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:16.718Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.70 MB / 0,
+ 	 8.71 MB / 2,
+ 	 8.73 MB / 4,
+ 	 8.74 MB / 11,
+ 	 8.76 MB / 207,
+ 	 8.78 MB / 208,
+ 	 8.79 MB / 209,
+ 	 8.81 MB / 210,
+ 	 8.82 MB / 407,
+ 	 8.84 MB / 413, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:17.132Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 8.85 MB / 0,
+ 	 8.87 MB / 1,
+ 	 8.88 MB / 205,
+ 	 8.90 MB / 205,
+ 	 8.92 MB / 207,
+ 	 8.93 MB / 217,
+ 	 8.95 MB / 222,
+ 	 8.96 MB / 1521,
+ 	 8.98 MB / 1528,
+ 	 8.99 MB / 1530, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:18.663Z,  Total Session Bytes Received / ms After Timestamp: 
+ 	 9.01 MB / 0,
+ 	 9.03 MB / 0,
+ 	 9.04 MB / 2,
+ 	 9.06 MB / 2,
+ 	 9.07 MB / 3,
+ 	 9.09 MB / 142,
+ 	 9.10 MB / 1141,
+ 	 9.12 MB / 1998,
+ 	 9.14 MB / 2082,
+ 	 9.15 MB / 2905, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:workbench-telemetry:telemetry-service track web/latency-update 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:21.605Z,  Maximum Session Latency: 7.44s 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:07.054Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.57 MB / 0,
+ 	 1.59 MB / 14574,
+ 	 1.60 MB / 14583,
+ 	 1.62 MB / 14585,
+ 	 1.63 MB / 14586,
+ 	 1.65 MB / 14588,
+ 	 1.66 MB / 14599,
+ 	 1.67 MB / 14602,
+ 	 1.68 MB / 14603,
+ 	 1.70 MB / 14604, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:21.658Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.71 MB / 0,
+ 	 1.73 MB / 1,
+ 	 1.74 MB / 1,
+ 	 1.76 MB / 3,
+ 	 1.77 MB / 5,
+ 	 1.79 MB / 5,
+ 	 1.81 MB / 8,
+ 	 1.82 MB / 14,
+ 	 1.84 MB / 23,
+ 	 1.85 MB / 24, 185.c4aa12781d2f30fc5588.js:1:33246
+vscs:web-client:eb8a:codespaces-component Timestamp: 2022-08-25T07:04:21.683Z,  Total Session Bytes Sent / ms After Timestamp: 
+ 	 1.87 MB / 0,
+ 	 1.88 MB / 2,
+ 	 1.90 MB / 5,
+ 	 1.92 MB / 39,
+ 	 1.93 MB / 243,
+ 	 1.95 MB / 245,
+ 	 1.96 MB / 248,
+ 	 1.98 MB / 302,
+ 	 1.99 MB / 305,
+ 	 2.01 MB / 306, 185.c4aa12781d2f30fc5588.js:1:33246
