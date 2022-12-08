@@ -1,0 +1,1290 @@
+​  Event handler of 'message' event must be added on the initial evaluation of worker script.
+s @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252F8c27f0e22164978bedf8e871017e20cd9d18--cb261f07-8d09-402e-860e-0573c8cd90c0%26sig%3DRujHKBkA0sQ%252BpDPhTAQvDSR0b%252BAq5t7ySyeLbKniiBc%253D%26se%3D1669686945%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode VSCode Server port "46841" forwarded.
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient Creating proxy for streamManager service
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode connection status changed: connecting -> connected, error: undefined
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode firing change event:  Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connecting -> connected
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode 🔌 connected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_3
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_4
+​ vscs:sw:22e1:connection-hub:vscode-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection record: true
+​ vscs:sw:22e1:connection-hub:vscode-sw:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b return connected
+​ vscs:sw:22e1:connection-hub:vscode-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection record: true
+​ vscs:sw:22e1:connection-hub:vscode-sw:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b return connected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_17
+​ vscs:sw:22e1:connection-hub:vscode-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection record: true
+​ vscs:sw:22e1:connection-hub:vscode-sw:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b return connected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_20
+​ vscs:sw:22e1:init got "configureServiceWorker" message Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare host connection changed to "Reconnecting"
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare creating connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare connection status changed: connected -> connecting, error: undefined
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare firing change event:  Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA connected -> connecting
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode LiveShareConnection status changed: "connected" -> "connecting"
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode stopping remote port "46841"
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode connection status changed: connected -> disconnected, error: 
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode firing change event:  Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connected -> disconnected
+​ vscs:sw:22e1:connection-hub:vscode-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b disposing the connection
+​ vscs:sw:22e1:connection-hub:vscode-sw disposing C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode stopping remote port "46841"
+​ vscs:sw:22e1:connection-hub:vscode-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b not reconnecting
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient reconnect started maxTimeReconnect:10000 retryTimeout:250
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  WebSocket connection to 'wss://vsls-ppe-rel-usw2-private-relay.servicebus.windows.net/$hc/d96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-usw2-private-relay.servicebus.windows.net%252Fd96427447bf73174c17a5de3293ceee99a73--0249c4bd-7b37-478e-af11-b4d9d759322f%26sig%3DS2UmHS0KvxJM9cDcZB5FeQATsNwLi%252FQ%252FzE2zRrIBmZA%253D%26se%3D1669700475%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+​  vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient unable to reconnect ssh session -> retryCount:16
+writeEvent @ service-worker.js:1
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient RPC connection closed. disposed: "false"
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare connection status changed: connecting -> disconnected, error: 
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare firing change event:  Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA connecting -> disconnected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:onConnectionChanged:C8B67E1610EAE01D16C73E24CECF5868DCBA disposing the connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw disposing C8B67E1610EAE01D16C73E24CECF5868DCBA connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient stopCheckConnection reason:'disposed'
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient:2 Stop checking connection
+​  vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient > serverSharing.stopSharing() error: 
+writeEvent @ service-worker.js:1
+​  vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare:WorkspaceClient > serverSharing.stopSharing() error: 
+writeEvent @ service-worker.js:1
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA:liveshare host connection changed to "Closed"
+​  vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode failed to stop forwarding vscode server port
+writeEvent @ service-worker.js:1
+​  vscs:sw:22e1:connection-hub:vscode-sw:connection:C8B67E1610EAE01D16C73E24CECF5868DCBA_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode failed to stop forwarding vscode server port
+writeEvent @ service-worker.js:1
+​ vscs:sw:22e1:init got "configureServiceWorker" message Object
+​ vscs:sw:22e1:init got "connectMessageType" message Object
+​ vscs:sw:22e1:init connecting
+​ vscs:sw:22e1:connection-hub:vscode-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection record: false
+​ vscs:sw:22e1:connection-hub:vscode-sw:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b creating new connection
+​ vscs:sw:22e1:connection-hub:vscode-sw creating connection Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode asked to connect
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode creating new connection
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode creating connection
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode connection status changed: none -> connecting, error: undefined
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode firing change event:  Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b none -> connecting
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode get LS connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw requested to connect once Object Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:F627840C3F585FF86F41AABE265041A6544F connection record: false
+​ vscs:sw:22e1:connection-hub:liveshare-sw:F627840C3F585FF86F41AABE265041A6544F creating new connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw creating connection Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare asked to connect
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare creating new connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare creating connection
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare connection status changed: none -> connecting, error: undefined
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare firing change event:  Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F none -> connecting
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare creating workspace client Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient join started
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.4.0","platformVersion":"5.4.0.1094"}
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient joinWorkspace -> session:4 conversation:e54135dc-d32c-4b94-ba26-742a2b7cd011 join messages count:2
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient join completed
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient:3 Start checking connection timeout:5000
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237"
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare LS session joined and authenticated
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for workspace service
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare connection status changed: connecting -> connected, error: undefined
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare firing change event:  Object
+​ vscs:sw:22e1:connection-hub:liveshare-sw:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F connecting -> connected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare 🔌 connected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for serverSharing service
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for IVSCodeServerHostService service
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for ICodespaceHostService service
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode starting vscode server.. Object
+​ vscs:sw:22e1:connection-hub:vscode-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection record: true
+​ vscs:sw:22e1:connection-hub:vscode-sw:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connecting with timeout - Infinity ms
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode asked to connect with timeout of Infinity ms
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode asked to connect
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode return promise, resolved: false
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode Executed start-remote-server using Live Share
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode vscode started, forwarding the server port
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode the server port forwarded, port number is 34701
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode vscode server startup complete
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode forwarding the VSCode Server port "34701".
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode VSCode Server port "34701" forwarded.
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for streamManager service
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode connection status changed: connecting -> connected, error: undefined
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode firing change event:  Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connecting -> connected
+​ vscs:sw:22e1:connection-hub:vscode-sw:connection:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b:vscode 🔌 connected
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_3
+​ vscs:sw:22e1:connection-hub:liveshare-sw:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_4
+​ vscs:sw:22e1:connection-hub:vscode-sw requested to connect Object Object
+​ vscs:sw:22e1:connection-hub:vscode-sw:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b connection record: true
+​ vscs:sw:22e1:connection-hub:vscode-sw:F627840C3F585FF86F41AABE265041A6544F_6f49583d-10d7-4abd-b688-f88ff25cccb2_stable_6261075646f055b99068d3688932416f2346dd3b return connected
+​ vscs:web-client:d4db init 👋
+​ vscs:web-client:d4db:workbench-telemetry:telemetry-service initialize {
+  "browserId": "bf608f4a1f8a9e52dc94057eb1b756fe",
+  "sessionId": "5a7c6a70-8898-45e4-bb9b-6e9d7ae07c37",
+  "pageLoadId": "5071818a3c5629393ae6ef7f89c51ba8",
+  "host": "ppe.github.dev",
+  "browserName": "edge-chromium",
+  "browserVersion": "108.0.1462",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "6261075646f055b99068d3688932416f2346dd3b",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02153.307-b372401a",
+  "stableVSCodeCommitId": "6261075646f055b99068d3688932416f2346dd3b",
+  "insiderVSCodeCommitId": "d0e44be43287acadb13f7c2808332e00fe52568d",
+  "serviceLocation": "WestUs2",
+  "serviceInstance": "WestUs2",
+  "environment": "Staging",
+  "workbenchType": "codespaces",
+  "editor": "jupyter"
+}
+​  Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+e._parseColor @ commons-app-xterm.js…05809b3e8d161a.js:1
+​  Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+e._parseColor @ commons-app-xterm.js…05809b3e8d161a.js:1
+​  Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+t._drawToCache @ commons-app-xterm.js…05809b3e8d161a.js:1
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint requested to connect Object Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:F627840C3F585FF86F41AABE265041A6544F connection record: false
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:F627840C3F585FF86F41AABE265041A6544F creating new connection
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint creating connection Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare asked to connect
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare creating new connection
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare creating connection
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare firing change event:  Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F none -> connecting
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare requested to connect once Object Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare requested to connect Object Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:F627840C3F585FF86F41AABE265041A6544F connection record: false
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:F627840C3F585FF86F41AABE265041A6544F creating new connection
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare creating connection Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare asked to connect
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare creating new connection
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare creating connection
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare connection status changed: none -> connecting, error: undefined
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare firing change event:  Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F none -> connecting
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare creating workspace client Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient:WorkspaceApi getWorkspaceSessionInfo -> workspaceId:F627840C3F585FF86F41AABE265041A6544F
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint requested to connect once Object Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint requested to connect Object Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:F627840C3F585FF86F41AABE265041A6544F connection record: true
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:F627840C3F585FF86F41AABE265041A6544F connecting with timeout - Infinity ms
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare asked to connect with timeout of Infinity ms
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare asked to connect
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare return promise, resolved: false
+​ vscs:sw:22e1:init got "configureServiceWorker" message Object
+​ vscs:web-client:d4db:codespace-state-watcher codespace state -> Available
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient join started
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.4.0","platformVersion":"5.4.0.1094"}
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient joinWorkspace -> session:6 conversation:e54135dc-d32c-4b94-ba26-742a2b7cd011 join messages count:2
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient join completed
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient:1 Start checking connection timeout:5000
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237"
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare LS session joined and authenticated
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for workspace service
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare connection status changed: connecting -> connected, error: undefined
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare firing change event:  Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F connecting -> connected
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare 🔌 connected
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare connection status changed: connecting -> connected, error: undefined
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare firing change event:  Object
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:F627840C3F585FF86F41AABE265041A6544F connecting -> connected
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare-joint:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare-joint:liveshare 🔌 connected
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for IJupyterServerHostService service
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for sourceEvent service
+​ vscs:web-client:d4db:codespaces-component:connection-hub:liveshare:connection:F627840C3F585FF86F41AABE265041A6544F:liveshare:WorkspaceClient Creating proxy for serverSharing service
+​  Failed to create module: package: jupyterlab-plotly; module: ./extension
+z @ 7796.88f06a290413982…06a290413982028e7:1
+​  
+(anonymous) @ 7796.88f06a290413982…06a290413982028e7:1
+tangshimei-musical-parakeet-59677755q7whv6gq-8888.ppe.preview.app.github.dev/lab/api/settings?1669616070179:1   Failed to load resource: net::ERR_CONNECTION_CLOSED
+​  Plugin '@jupyterlab/apputils-extension:settings' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/translation:translator' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:layout' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:context-menu' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:themes' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/fileeditor-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/console-extension:tracker' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/codemirror-extension:commands' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/console-extension:foreign' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/extensionmanager-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/filebrowser-extension:widget' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/fileeditor-extension:tab-space-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/settingeditor-extension:form-ui' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/settingeditor-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/shortcuts-extension:shortcuts' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/terminal-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/translation-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin 'nbdime-jupyterlab:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/git:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/rendermime-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:palette' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/javascript-extension:factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/json-extension:factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/pdf-extension:factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/vega5-extension:factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/plotly-extension:factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:state' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:dirty' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:main' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:connectionlost' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:commands' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:notfound' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/application-extension:property-inspector' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:palette-restorer' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:print' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:splash' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:themes-palette-menu' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:toggle-header' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:utilityCommands' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/apputils-extension:workspaces' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/notebook-extension:widget-factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/notebook-extension:tracker' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/launcher-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/notebook-extension:tools' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/celltags' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/codemirror-extension:editor-syntax-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/statusbar-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/csvviewer-extension:csv' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/documentsearch:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/csvviewer-extension:tsv' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/debugger-extension:notebooks' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/debugger-extension:variables' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/debugger-extension:sidebar' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/debugger-extension:main' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  Plugin '@jupyterlab/logconsole-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+​  
+(anonymous) @ jlab_core.e37d4bbc8c…d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/docmanager-extension:saving-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/docmanager-extension:download' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/docmanager-extension:open-browser-tab' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:browser' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:share-file' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:file-upload-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:download' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:open-browser-tab' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:open-url' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/help-extension:about' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/help-extension:launch-classic' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/help-extension:jupyter-forum' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/help-extension:resources' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/help-extension:licenses' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/htmlviewer-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin 'jupyter.extensions.hub-extension' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/imageviewer-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/inspector-extension:inspector' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/markdownviewer-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:execution-indicator' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:export' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:mode-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:trust-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:cloned-outputs' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:code-console' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extensions:copy-output' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/running-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/statusbar-extension:line-col-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/statusbar-extension:kernel-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/statusbar-extension:running-sessions-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/statusbar-extension:mode-switch' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/theme-dark-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/theme-light-extension:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/toc:plugin' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/git:clone' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/docmanager-extension:path-status' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/completer-extension:files' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/debugger-extension:files' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/tooltip-extension:files' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/completer-extension:consoles' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/debugger-extension:consoles' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/inspector-extension:consoles' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/tooltip-extension:consoles' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/vdom-extension:factory' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/filebrowser-extension:open-with' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/completer-extension:notebooks' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/inspector-extension:notebooks' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/notebook-extension:log-output' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/tooltip-extension:notebooks' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       Plugin '@jupyterlab/documentsearch:labShellWidgetListener' failed to activate.
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2 
+        
+       TypeError: Failed to fetch
+(anonymous) @ jlab_core.e37d4bbc8c984154bc26.js?v=e37d4bbc8c984154bc26:2
+DevTools failed to load source map: Could not load content for https://tangshimei-musical-parakeet-59677755q7whv6gq.ppe.github.dev/static/primer.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
