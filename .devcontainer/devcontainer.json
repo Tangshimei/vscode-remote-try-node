@@ -26,6 +26,9 @@
 	// Use 'portsAttributes' to set default properties for specific forwarded ports. 
 	// More info: https://containers.dev/implementors/json_reference/#port-attributes
 	"portsAttributes": {
+		"3650": {
+			"label": "dff"
+		},
 		"9000": {
 			"label": "Hello Remote World",
 			"onAutoForward": "notify"
