@@ -36,5 +36,15 @@
 	"postCreateCommand": "yarn install",
 
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "node"
+	"remoteUser": "node",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/act-asdf:2": {
+			"version": "latest"
+		},
+		"ghcr.io/dhoeric/features/act:1": {},
+		"ghcr.io/dasiths/devcontainer-features/syft:1": {
+			"version": "latest",
+			"destination_dir": "/usr/local/bin"
+		}
+	}
 }
