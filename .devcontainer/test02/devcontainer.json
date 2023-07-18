@@ -1,4 +1,4 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+ // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.185.0/containers/javascript-node
 {
 	"name": "Node.js",
@@ -24,6 +24,9 @@
 		"3000": {
 			"label": "Hello Remote World",
 			"onAutoForward": "notify"
+		},
+		"6900": {
+			"label": "cc v"
 		}
 	},
 
